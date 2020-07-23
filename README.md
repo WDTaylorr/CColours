@@ -1,2 +1,0 @@
-# CColours
-Colours Palette 
