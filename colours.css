@@ -1,0 +1,224 @@
+/* Deep Purples Theme */
+.colours.deep-purple span#first{
+  background-color: #0C0032;
+}
+
+.colours.deep-purple span#second{
+  background-color: #1a0061;
+}
+
+.colours.deep-purple span#third{
+  background-color: #230090;
+}
+
+.colours.deep-purple span#fourth{
+  background-color: #2500d4;
+}
+.colours.deep-purple span#fifth{
+  background-color: #282828;
+}
+
+/* Striking Theme */
+
+.colours.striking span#first{
+  background-color: #0b0c10;
+}
+
+.colours.striking span#second{
+  background-color: #1f2833;
+}
+
+.colours.striking span#third{
+  background-color: #c5c6c7;
+  color:#1b1b1b;
+}
+
+.colours.striking span#fourth{
+  background-color: #66FCF1;
+  color:#1b1b1b;
+}
+.colours.striking span#fifth{
+  background-color: #45A29E;
+}
+
+/* Roses Theme */
+
+.colours.roses span#first{
+  background-color: #5D001E;
+}
+
+.colours.roses span#second{
+  background-color: #E3E2DF;
+  color:#1b1b1b;
+}
+
+.colours.roses span#third{
+  background-color: #E3AFBC;
+  color:#1b1b1b;
+}
+
+.colours.roses span#fourth{
+  background-color: #9A1750;
+}
+.colours.roses span#fifth{
+  background-color: #EE4C7C;
+}
+
+/* warm-and-minimal Theme */
+
+.colours.warm-and-minimal span#first{
+  background-color: #EAE7DC;
+  color:#1b1b1b;
+}
+
+.colours.warm-and-minimal span#second{
+  background-color: #D8C3A5;
+  color:#1b1b1b;
+}
+
+.colours.warm-and-minimal span#third{
+  background-color: #8E8D8A;
+  color:#1b1b1b;
+}
+
+.colours.warm-and-minimal span#fourth{
+  background-color: #E98074;
+}
+.colours.warm-and-minimal span#fifth{
+  background-color: #E85A4F;
+}
+
+/* Vivid Theme */
+
+.colours.vivid span#first{
+  background-color: #D83F87;
+}
+
+.colours.vivid span#second{
+  background-color: #2A1B3D;
+}
+
+.colours.vivid span#third{
+  background-color: #44318D;
+}
+
+.colours.vivid span#fourth{
+  background-color: #E98074;
+}
+.colours.vivid span#fifth{
+  background-color: #A4B3B6;
+}
+
+/* Clean Theme */
+
+.colours.clean span#first{
+  background-color: #5690E9;
+}
+
+.colours.clean span#second{
+  background-color: #84CEEB;
+  color:#1b1b1b;
+}
+
+.colours.clean span#third{
+  background-color: #5AB9EA;
+  color:#1b1b1b;
+}
+
+.colours.clean span#fourth{
+  background-color: #C1C8E4;
+  color:#1b1b1b;
+}
+.colours.clean span#fifth{
+  background-color: #8860D0;
+}
+
+/* Blue and refreshing Theme */
+
+.colours.blue-and-refreshing span#first{
+  background-color: #25274D;
+}
+
+.colours.blue-and-refreshing span#second{
+  background-color: #464866;
+}
+
+.colours.blue-and-refreshing span#third{
+  background-color: #AAABB8;
+  color:#1b1b1b;
+}
+
+.colours.blue-and-refreshing span#fourth{
+  background-color: #2E9CCA;
+  color:#1b1b1b;
+}
+.colours.blue-and-refreshing span#fifth{
+  background-color: #29648A;
+}
+
+/* Pastel Pink Theme */
+
+.colours.pastel-pink span#first{
+  background-color: #A1C3D1;
+  color:#1b1b1b
+}
+
+.colours.pastel-pink span#second{
+  background-color: #B39BC8;
+}
+
+.colours.pastel-pink span#third{
+  background-color: #D0EBF4;
+  color:#1b1b1b;
+}
+
+.colours.pastel-pink span#fourth{
+  background-color: #F172A1;
+  color:#1b1b1b;
+}
+.colours.pastel-pink span#fifth{
+  background-color: #E64398;
+}
+
+/* Citrus Theme */
+
+.colours.citrus span#first{
+  background-color: #1F2605;
+}
+
+.colours.citrus span#second{
+  background-color: #1F6521;
+}
+
+.colours.citrus span#third{
+  background-color: #53900F;
+}
+
+.colours.citrus span#fourth{
+  background-color: #A4A71E;
+}
+.colours.citrus span#fifth{
+  background-color: #D6CE15;
+  color:#1b1b1b
+}
+
+/* Fearless Theme */
+
+.colours.fearless span#first{
+  background-color: #314455;
+}
+
+.colours.fearless span#second{
+  background-color: #644E5b;
+}
+
+.colours.fearless span#third{
+  background-color: #9E5A63;
+}
+
+.colours.fearless span#fourth{
+  background-color: #C96567;
+}
+.colours.fearless span#fifth{
+  background-color: #97AABD;
+}
